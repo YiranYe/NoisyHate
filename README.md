@@ -1,4 +1,4 @@
-# toxic-detection-testset
+# Noisy Hate Data
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
